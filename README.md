@@ -1,2 +1,2 @@
-# GCVC-Graph-Convolution-Vector-Distribution-Calibration-for-Fish-Group
+# GCVC
 Fish activity dataset
