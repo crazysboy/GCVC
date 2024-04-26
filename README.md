@@ -1,4 +1,4 @@
-This repository is an official implementation of the IEEE TMMM 2024 paper "Graph Convolution Vector Distribution Calibration for Fish Group Activity Recognition".
+# This repository is an official implementation of the IEEE TMMM 2024 paper "Graph Convolution Vector Distribution Calibration for Fish Group Activity Recognition".
 ---
 
     Z. Zhao, X. Yang, J. Liu, C. Zhou and C. Zhao, "GCVC: Graph Convolution Vector Distribution Calibration for Fish Group Activity Recognition," in IEEE Transactions on Multimedia, vol. 26, pp. 1776-1789, 2024, doi: 10.1109/TMM.2023.3287339. 
