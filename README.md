@@ -13,6 +13,7 @@ ex. 000001.jpg None 317 774 535 95 swiming 399 75 511 411 swiming 1164 312 323 4
 
 000002.jpg None 320 773 533 97 swiming 408 78 502 414 swiming 1169 316 321 436 swiming 842 93 352 160 swiming 377 500 206 361 swiming 906 263 110 485 swiming 767 340 127 450 swiming 1092 444 193 431 swiming 433 310 343 289 swiming 566 221 303 197 swiming 1140 425 344 348 swiming 982 325 169 353 swiming 
 
+**The detailed information of the dataset can be found in the paper**
 
 **activity label**
 
@@ -25,7 +26,7 @@ ex. 000001.jpg None 317 774 535 95 swiming 399 75 511 411 swiming 1164 312 323 4
 
 # Citation
 
-If you use Group DETR in your research or wish to refer to the baseline results published here, please use the following BibTeX entry.
+If you use GCVC in your research or wish to refer to the baseline results published here, please use the following BibTeX entry.
 
     @ARTICLE{10155192,
     author={Zhao, Zhenxi and Yang, Xinting and Liu, Jintao and Zhou, Chao and Zhao, Chunjiang},
